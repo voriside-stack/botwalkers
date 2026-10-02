@@ -1,0 +1,29 @@
+# Walking speed in blocks per tick (0.215 is roughly normal player walking speed)
+speed: 0.215
+
+# Maximum bots that can be spawned in one command
+max-spawn-per-command: 50
+
+# Bots take their SKIN from a random player name in this list.
+# Add any real Minecraft usernames you like.
+skins:
+  - Notch
+  - jeb_
+  - Dinnerbone
+  - Grumm
+  - Searge
+  - C418
+  - Dream
+  - Technoblade
+  - Skeppy
+  - BadBoyHalo
+  - Philza
+  - Tubbo_
+  - Ranboo
+  - CaptainSparklez
+  - Sapnap
+  - GeorgeNotFound
+  - Mumbo
+  - GrianMC
+  - xisumavoid
+  - Etho

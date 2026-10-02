@@ -1,0 +1,15 @@
+name: BotWalkers
+version: 1.0.0
+main: me.botwalkers.BotPlugin
+api-version: '1.21.11'
+description: Spawns wandering bots with random skins, names and armour.
+commands:
+  bots:
+    description: Spawn and manage wandering bots
+    usage: /bots <spawn|armour|clear> ...
+    aliases: [botwalkers, bw]
+    permission: botwalkers.use
+permissions:
+  botwalkers.use:
+    description: Use the /bots command
+    default: op
